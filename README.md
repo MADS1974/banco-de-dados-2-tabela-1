@@ -16,14 +16,14 @@ em cada tabela, adicione atributos;
 insira dados em cada tabela;
 utilize os comandos Joins para realizar consultas nas tabelas.</p>
 
-<h3>Screen.</h3>
+<h3>Tabela 1</h3>
 
 <img src="./banco-de-dados-2-tabela-1/img.png" alt="Script" width="600" height="400">
 
-<h4>Desenvolvimento 2</h4>
+<h2>Desenvolvimento 2</h2>
 <p>Crie um banco de dados, adicione tabelas e determine quais são os atributos de cada uma. Em seguida, execute um trigger que se relacione com algum comando, como insert, select, delete ou update.</p>
 
-<h5>Screen.</h5>
+<h3>Tabela 2</h3>
 
 <img src="./banco-de-dados-2-tabela-2/image.png" alt="Script" width="600" height="400">
 
